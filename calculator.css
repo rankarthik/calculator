@@ -1,0 +1,38 @@
+form{
+    margin: 5%;
+    margin-left: 35%;
+    padding: 20px;
+    height: 400px;
+    width: 240px;
+    background-color: aquamarine;
+    border: solid 3px gray;
+    border-style: ridge;
+    
+}
+input[type="button"]{
+    font-weight: 20px;
+    border-radius: 5px;
+    padding: 10px;
+    padding-right: 10px;
+    width: 55px;
+    border-style: ridge;
+    border-color: blueviolet;
+
+
+}
+#textbox{
+    height: 30px ;
+    width: 220px; 
+    font-size: 20pt;
+    border-style: outset;
+    border-color: red;
+
+}
+body{
+    background-color: palegoldenrod;
+}
+#clear{
+    margin-left: 80px;
+    text-align: center;
+    width: 70px;
+}
